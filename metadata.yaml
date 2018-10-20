@@ -1,5 +1,5 @@
 _repo: Tales_5217
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'English poetry -- 19th century'
+- GITenberg
 tableOfContents: The dumb orators; or, the benefit of society -- The parting hour
   -- The gentleman farmer -- Procrastination -- The patron -- The frank courtship
   -- The widow's tale -- The mother -- Arabella -- The lover's journey -- Edward Shore
